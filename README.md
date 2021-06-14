@@ -18,7 +18,7 @@
 <br />
 <p align="center" >
 	<code>
-		<a style="text-decoration: none" href="https://www.w3.org/html/" target="_blank">
+		<a style="text-decoration: none" href="https://www.w3schools.com/html/" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
 				alt="html5"
@@ -119,7 +119,7 @@
 
 <p align="center">
 	<code>
-		<a style="text-decoration: none" href="https://www.linkedin.com/in/akashg3627/" target="blank">
+		<a style="text-decoration: none" href="https://www.linkedin.com/in/akashg3627/" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
 				alt="akashg3627"
@@ -129,7 +129,7 @@
 		</a>
 	</code>
 	<code>
-		<a style="text-decoration: none" href="mailto:agbichpuriya@gmail.com" target="blank">
+		<a style="text-decoration: none" href="mailto:agbichpuriya@gmail.com" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
 				alt="agbichpuriya@gmail.com"
@@ -139,7 +139,7 @@
 		</a>
 	</code>
   <code>
-		<a style="text-decoration: none" href="https://www.facebook.com/profile.php?id=100004519234873" target="blank">
+		<a style="text-decoration: none" href="https://www.facebook.com/profile.php?id=100004519234873" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"
 				alt="akashgupta"
@@ -149,7 +149,7 @@
 		</a>
 	</code>
   <code>
-		<a style="text-decoration: none" href="https://www.instagram.com/akash6815/" target="blank">
+		<a style="text-decoration: none" href="https://www.instagram.com/akash6815/" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
 				alt="akash6815"

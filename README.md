@@ -83,17 +83,13 @@
 <br />
 
 <p align="center">
-	<code>
-		<a style="text-decoration: none" href="https://www.linkedin.com/in/akashg3627/" target="_blank">
-			<img
+	<a style="text-decoration: none" href="https://www.linkedin.com/in/akashg3627/" target="_blank"><img
 				src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
 				alt="akashg3627"
 				height="40"
 				width="40"
 			/>
-		</a>
-	</code>
-	<code>
+	</a>&emsp;
 		<a style="text-decoration: none" href="mailto:agbichpuriya@gmail.com" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"
@@ -101,9 +97,7 @@
 				height="40"
 				width="40"
 			/>
-		</a>
-	</code>
-  <code>
+		</a>&emsp;
 		<a style="text-decoration: none" href="https://www.facebook.com/profile.php?id=100004519234873" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg"
@@ -111,9 +105,7 @@
 				height="40"
 				width="40"
 			/>
-		</a>
-	</code>
-  <code>
+		</a>&emsp;
 		<a style="text-decoration: none" href="https://www.instagram.com/akash6815/" target="_blank">
 			<img
 				src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"
@@ -122,6 +114,5 @@
 				width="40"
 			/>
 		</a>
-	</code>
 </p>
 <br />
